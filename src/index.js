@@ -27,10 +27,6 @@ const AppRouter = createBrowserRouter([
          {
             path: '/signin/app',
             element: <TaskBody/>
-         },
-         {
-            path: '/signin/app',
-            element: <App/>
          }
       ]
    }
